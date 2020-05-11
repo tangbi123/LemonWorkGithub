@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/01-Scenes/00-HaidaoStart.unity
+    guid: fd74b1e481b004f40aee8f0f28476886
+  - enabled: 1
+    path: Assets/01-Scenes/01-Start.unity
+    guid: 5cb8151ea65d2eb4ca256fc1fa2ddad6
+  - enabled: 1
+    path: Assets/01-Scenes/02-HaidaoGame.unity
+    guid: da81c915195bc204a852b50304d9aa72
+  - enabled: 1
+    path: Assets/01-Scenes/03-HaidiGame.unity
+    guid: aeea7be05524fb74b9b9385a951e799b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/01-Scenes/\u661F\u7403\u8BA1\u5212UI\u80CC\u666F.unity"
+    guid: 0c50d23b84815504bba8ebe59bd0412d
+  - enabled: 1
+    path: Assets/01-Scenes/02-HaidaoGame.unity
+    guid: 4672f031ced979040a8aaa0c27a413ca
+  - enabled: 0
+    path: Assets/01-Scenes/test/Loading.unity
+    guid: 9fd7fcca4c5d61c4bbfb59570a5f2384
+  - enabled: 1
+    path: Assets/01-Scenes/04-Loading.unity
+    guid: 38bfd40d06075dd48b5e8d0d01698fa7
+  m_configObjects: {}
