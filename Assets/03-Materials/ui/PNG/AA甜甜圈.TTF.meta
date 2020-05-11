@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8257cdb72bf1310459702dd0754508e3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AaDonuts
+  fontNames:
+  - AaDonuts
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: baffe683a6a05f2468747b399a283767, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

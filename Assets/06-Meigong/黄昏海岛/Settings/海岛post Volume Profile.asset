@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-592428818476239538
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da5ab44aadfb1804db5fd470983ac1b8, type: 3}
+  m_Name: LiftGammaGain
+  m_EditorClassIdentifier: 
+  active: 0
+  m_AdvancedMode: 0
+  lift:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 1, z: 1, w: 0}
+  gamma:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 1, z: 1, w: 0}
+  gain:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 1, z: 1, w: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: "\u6D77\u5C9Bpost Volume Profile"
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 6230865401806342780, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: -7582093956420249797, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: -335870281523963870, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: 962625870605003455, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: -3157387608842905189, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: 4648968338378781422, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: 3139816750892389234, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: -7084193895786715926, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: 3290082994883956591, guid: f7b5084bc6e485c4a833c0ea4fe0cc78, type: 2}
+  - {fileID: -592428818476239538}
